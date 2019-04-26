@@ -1,0 +1,33 @@
+header {
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration-color: blue;
+    border: 2px;
+    border-color: aqua;
+    background-color: aquamarine; 
+}
+
+h1 {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px;
+    border-color: goldenrod;
+    background-color: tan;
+}
+
+body {
+    background-color: cornsilk;
+    border: 2px;
+    border-style: solid;
+    border-color: aquamarine;
+}
+
+img {
+    width: 100px;
+    height: auto;
+    padding-right: 8px;
+    padding-left: 15px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    float: left;
+}
